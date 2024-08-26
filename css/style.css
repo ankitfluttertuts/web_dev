@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header  {
+    width: 100 vh;
+    height: 200px;
+    background-image: linear-gradient(rgb(253, 199, 199),rgb(253, 247, 193));
+}
+.header-div{
+    display: inline;
+    float: left;
+}
+#header-logo{
+    width: 33vh;
+    height: 200px;
+}
+.header-img{
+    width: 100%;
+    height: 100%
+}
